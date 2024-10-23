@@ -1,6 +1,8 @@
-Michael Brookins
-SDET Program
-Phase 3 Project
+**Michael Brookins**
+
+**SDET Program** 
+
+**Phase 3 Project**
 
 **Project Requirements:**
 Phase 3 Project – NodeJS, APIs and Databases 
