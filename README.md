@@ -5,17 +5,21 @@
 **Phase 3 Project**
 
 **Project Requirements:**
+
 Phase 3 Project – NodeJS, APIs and Databases 
 
 **Overview** 
+
 You have been commissioned to build a new, simple application for managing RF-SMART’s “Library” conference room’s books. Lately there’s been confusion around who’s reading what books, which ones are available in the library conference room, and when they’re expected back. Some employees also would like to leave comments about a book they’ve read and read other’s comments as well. Finally, when a book is accidentally destroyed or lost, nobody is sure who to tell or how to let others know it’s no longer available. 
 
 **Actors:**
+
 1. RF-SMART Employee 
 2. Reader 
 3. Donor 
 
 **User Stories **
+
 1. As an RF-SMART employee, I would like to view what books could be in the library so that I know what reading material is available. 
 2. As an RF-SMART employee, I would like to view comments left on individual books that could be in the library so that I know what Readers think about each one. 
 3. As an RF-SMART employee, I would like to view what books are currently in the library so that I know what books I can check out. 
@@ -25,7 +29,8 @@ You have been commissioned to build a new, simple application for managing RF-SM
 7. As a Reader, I would like to be able to delete a book I have checked out because I’ve lost it, damaged it, or it’s so good that I’m keeping it for myself and don’t want anyone else to have it, ever! 
 8. As a Donor, I would like to donate and add a book to the library so others may also read it and know it’s available for check out. 
 
-**Personas: **
+**Personas:**
+
 Susie Q. 
 RF-SMART Employee, Reader 
 Age: 26 
@@ -61,6 +66,7 @@ Favorite music is Classical
 _Marissa reads constantly and loves learning. When she’s not drawing or painting to flex her artistic abilities, she’s reading on all sorts of topics. When she finishes a book, she really likes to share it with her peers and others.  She would love to be able to donate the books she has read so anyone at RF-SMART can read them also and be able to share her thoughts and comments for others to read about them. _
 
 **Technical Direction:**
+
 To assist with the design of this application, here are some general guidelines for technical direction and overall design for how to approach this project: 
 You will need some **tools**: 
 Visual Studio Code (and any plug-ins you may want) 
@@ -94,6 +100,7 @@ You should be able to run everything “locally” on your machine
 Bonus points for orchestrating them in containers (docker, docker-compose, etc.) 
 
 **Test Cases **
+
 Test Case Constraints / Requirements 
 You should use the Page Object Model design pattern in constructing your test bed 
 There should be 2 test cases for each use-case presented: 1 for UI, 1 against the API. 
@@ -102,12 +109,14 @@ Collect data and create artifact after manipulating it in some way (reverse the 
 Create a broken or non-existent endpoint in the API and test that a happy path test returns a failing test result. 
 
 **Timeline** 
+
 3 months (~12 weeks) 
 **Submission** 
 1. Commit your code to GitHub for review  
 2. Demo individually with your technical partner, and your code will be reviewed - You will be assigned an individual developer or SDET as your technical partner throughout the project. 
 
 **Database** – mySQL or PostgreSQL 
+
 You can use Docker container to do this 
 Install Database onto my local machine 
 Design schema, tables, etc for library app 
@@ -128,6 +137,7 @@ Call your REST API from your Web Application to Perform various Actions
 Does not need to be pretty -> MUST BE FUNCTIONAL 
 
 **TypeScript End-to-End Automation Test Project **
+
 Framework: Playwright with TypeScript 
 Use Page Object Model (POM) 
 Minimum Test Cases = 8 –  
@@ -143,7 +153,8 @@ You will need to be able to run everything “locally” on my machine
 
 BONUS POINTS for Orchestrating in Containers (docker, docker-compose, podman, etc) 
 
-FINAL Submission 
+**FINAL Submission**
+
 Commit Code to GitHub for Review 
 Demo Individually to SDETs 
 Review Each Other’s Code 
