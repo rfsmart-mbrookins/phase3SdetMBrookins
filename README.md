@@ -4,12 +4,15 @@ Phase 3 Project
 
 **Project Requirements:**
 Phase 3 Project – NodeJS, APIs and Databases 
+
 **Overview** 
 You have been commissioned to build a new, simple application for managing RF-SMART’s “Library” conference room’s books. Lately there’s been confusion around who’s reading what books, which ones are available in the library conference room, and when they’re expected back. Some employees also would like to leave comments about a book they’ve read and read other’s comments as well. Finally, when a book is accidentally destroyed or lost, nobody is sure who to tell or how to let others know it’s no longer available. 
+
 **Actors:**
 1. RF-SMART Employee 
 2. Reader 
 3. Donor 
+
 **User Stories **
 1. As an RF-SMART employee, I would like to view what books could be in the library so that I know what reading material is available. 
 2. As an RF-SMART employee, I would like to view comments left on individual books that could be in the library so that I know what Readers think about each one. 
@@ -19,6 +22,7 @@ You have been commissioned to build a new, simple application for managing RF-SM
 6. As a Reader, I would like to leave comments on a book I have checked out so that others know what I think about it. 
 7. As a Reader, I would like to be able to delete a book I have checked out because I’ve lost it, damaged it, or it’s so good that I’m keeping it for myself and don’t want anyone else to have it, ever! 
 8. As a Donor, I would like to donate and add a book to the library so others may also read it and know it’s available for check out. 
+
 **Personas: **
 Susie Q. 
 RF-SMART Employee, Reader 
